@@ -109,12 +109,13 @@ Interactive visualizations using Plotly
 
 ## Author
 Payaswini Rauta
-GitHub Profile
+
 
 ---
 
 ##📄 License
 Licensed under the MIT License.
+
 
 
 
