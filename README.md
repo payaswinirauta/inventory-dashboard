@@ -80,17 +80,17 @@ python main.py
 
 ---
 
-## Use Case Fit
+### Use Case Fit
 
-Inventory Optimization
+#Inventory Optimization
 
-Demand Forecasting
+#Demand Forecasting
 
-Supply Chain Analytics
+#Supply Chain Analytics
 
-Automated Dashboards
+#Automated Dashboards
 
-Data Engineering Practice
+#Data Engineering Practice
 
 ---
 ```
@@ -115,6 +115,7 @@ GitHub Profile
 ```
 ##📄 License
 Licensed under the MIT License.
+
 
 
 
