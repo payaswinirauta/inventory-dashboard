@@ -30,9 +30,9 @@ This project is ideal for supply chain analytics, automated reporting, and busin
 - IDE: PyCharm / VS Code
 
 ---
-```
-## 📁 Project Structure
 
+## 📁 Project Structure
+```
 inventory_dashboard_project/
 │
 ├── inventory.csv # Sample inventory dataset
@@ -101,6 +101,7 @@ GitHub Profile
 
 📄 License
 Licensed under the MIT License.
+
 
 
 
