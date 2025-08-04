@@ -103,14 +103,5 @@ GitHub Profile
 Licensed under the MIT License.
 
 
----
 
-Now you can:
-- Copy this directly into your `README.md`
-- Save it in PyCharm
-- Push with:
 
-```bash
-git add README.md
-git commit -m "Final professional README"
-git push
