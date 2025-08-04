@@ -80,7 +80,7 @@ python main.py
 
 ---
 ```
-💼 Use Case Fit
+## Use Case Fit
 Inventory Optimization
 
 Demand Forecasting
@@ -91,7 +91,10 @@ Automated Dashboards
 
 Data Engineering Practice
 
-✨ Future Enhancements
+---
+```
+
+## Future Enhancements
 Export reports to Excel/PDF
 
 Live database connectivity
@@ -100,12 +103,18 @@ API integration with FastAPI or Flask
 
 Interactive visualizations using Plotly
 
-👩‍💻 Author
+---
+```
+
+## Author
 Payaswini Rauta
 GitHub Profile
 
-📄 License
+---
+```
+##📄 License
 Licensed under the MIT License.
+
 
 
 
