@@ -27,7 +27,7 @@ This project is ideal for supply chain analytics, automated reporting, and busin
 - Pandas
 - Matplotlib
 - CSV file handling
-- IDE: PyCharm / VS Code
+- IDE: PyCharm 
 
 ---
 
@@ -115,6 +115,7 @@ Payaswini Rauta
 
 ##📄 License
 Licensed under the MIT License.
+
 
 
 
