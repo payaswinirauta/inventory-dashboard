@@ -68,14 +68,14 @@ Bar chart saved automatically as inventory_chart.png.
  ```
 ## How to Run
 
-# Step 1: Clone the repo
+Step 1: Clone the repo
 git clone git@github.com:payaswinirauta/inventory-dashboard.git
 cd inventory-dashboard
 
-# Step 2: Install dependencies
+Step 2: Install dependencies
 pip install pandas matplotlib
 
-# Step 3: Run the project
+Step 3: Run the project
 python main.py
 
 ---
@@ -106,6 +106,7 @@ GitHub Profile
 
 📄 License
 Licensed under the MIT License.
+
 
 
 
