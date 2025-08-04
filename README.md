@@ -64,8 +64,9 @@ ProductID     Category  Quantity RestockDate
 ...
 Bar chart saved automatically as inventory_chart.png.
 
+---
  How to Run
-
+```
 # Step 1: Clone the repo
 git clone git@github.com:payaswinirauta/inventory-dashboard.git
 cd inventory-dashboard
@@ -75,6 +76,9 @@ pip install pandas matplotlib
 
 # Step 3: Run the project
 python main.py
+
+---
+```
 💼 Use Case Fit
 Inventory Optimization
 
@@ -101,6 +105,7 @@ GitHub Profile
 
 📄 License
 Licensed under the MIT License.
+
 
 
 
