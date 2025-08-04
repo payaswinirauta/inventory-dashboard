@@ -79,8 +79,9 @@ Step 3: Run the project
 python main.py
 
 ---
-```
+
 ## Use Case Fit
+
 Inventory Optimization
 
 Demand Forecasting
@@ -114,6 +115,7 @@ GitHub Profile
 ```
 ##📄 License
 Licensed under the MIT License.
+
 
 
 
