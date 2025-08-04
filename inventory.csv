@@ -1,0 +1,9 @@
+ProductID,Category,Quantity,RestockDate
+101,Electronics,5,2025-08-10
+102,Grocery,20,2025-08-04
+103,Fashion,12,2025-08-12
+104,Electronics,2,2025-08-06
+105,Fashion,0,2025-08-08
+106,Grocery,7,2025-08-07
+107,Electronics,15,2025-08-15
+108,Fashion,3,2025-08-09
